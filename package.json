@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "main": "spam1m.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node spam1m.js"
   },
   "dependencies": {
     "discord.js": "11.1.0",
